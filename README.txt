@@ -25,8 +25,6 @@ to Send Message
 
 command on the client terminal, <client_id> is the name of the client process.
 
-Make sure all files in the hw1.zip are in the same directory.
-
 **********
 
 we have developed a program that enables communication between multiple clients using sockets. This communication is orchestrated through a central server, which acts as an intermediary. The server creates and manages individual client handler threads for each connected client, allowing them to exchange data and messages.
