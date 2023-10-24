@@ -1,5 +1,4 @@
 Sami Berkan Akkaya ve Osman İlge Ünaldı
-201201006             201101006
 
 
 
